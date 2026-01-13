@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Liar",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-01-13T09:52:40.785524Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Liar",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/01_Bad_Liar_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Made a Liar Out of Me",
+      "artist": "Chad Brock",
+      "has_synced": true,
+      "path": "select/02_You_Made_a_Liar_Out_of_Me_Chad_Brock.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Made a Liar out of Me (Album Version)",
+      "artist": "Chad Brock",
+      "has_synced": true,
+      "path": "select/03_You_Made_a_Liar_out_of_Me_(Album_Version)_Chad_Brock.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Liar",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/04_Liar_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Liar (Reptile Demo)",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/05_Liar_(Reptile_Demo)_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Liar (Reptile Demo)",
+      "artist": "Nine Inch Nails",
+      "has_synced": false,
+      "path": "select/06_Liar_(Reptile_Demo)_Nine_Inch_Nails.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Call Me Liar",
+      "artist": "Olga Kouklaki",
+      "has_synced": false,
+      "path": "select/07_Call_Me_Liar_Olga_Kouklaki.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Can See a Liar",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/08_I_Can_See_a_Liar_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Can See A Liar",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/09_I_Can_See_A_Liar_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Liar",
+      "artist": "Rx Papi feat. Gud",
+      "has_synced": false,
+      "path": "select/10_Liar_Rx_Papi_feat._Gud.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Liar",
+      "artist": "Rx Papi & Gud",
+      "has_synced": false,
+      "path": "select/11_Liar_Rx_Papi_&_Gud.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pretty Little Liar",
+      "artist": "Metro Station",
+      "has_synced": true,
+      "path": "select/12_Pretty_Little_Liar_Metro_Station.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Liar",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/13_Liar_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Liar",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/14_Liar_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Liar",
+      "artist": "Megadeth",
+      "has_synced": false,
+      "path": "select/15_Liar_Megadeth.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Liar",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/16_Liar_Queen.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You're A Liar",
+      "artist": "Lou Bega",
+      "has_synced": false,
+      "path": "select/17_You're_A_Liar_Lou_Bega.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Liar",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Liar_ONE_OK_ROCK.txt"
+    }
+  ]
+}
